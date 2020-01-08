@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  return my = {"artist" => "Kid Cudi"
+  return my = {"artist" => "Kid Cudi"}
 end
 
 def pioneer
