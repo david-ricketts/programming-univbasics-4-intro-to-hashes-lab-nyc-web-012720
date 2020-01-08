@@ -7,7 +7,7 @@ def my_hash
 end
 
 def pioneer
-  return pioneer = {:name => "Grace_Hopper"}
+  return pioneer = {:name => "Grace Hopper"}
 end
 
 def id_generator
@@ -32,4 +32,5 @@ def update_counting_hash(hash, key)
   else  
     new_hash[key] += 1 
   end
+  return new_hash
 end
